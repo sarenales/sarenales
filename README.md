@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 
 ## 🚀 About Me
 
-🎓 I’m currently studying/working at the  <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> .
+🎓 I’m currently studying at the  <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> .
 
 🌱 I’m planning to specialize in Machine Learning next year at the <a href="https://www.upm.es/">Technical University of Madrid (UPM)</a> .
 
