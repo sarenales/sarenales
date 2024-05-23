@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 ```javascript
 const silvi = {
   pronouns: "she" | "her",
-  code: [ C, C++, MatLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS],
+  code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS],
   challenge: "I am doing my final project about how Large Language Models response with tasks of visual spacial reasoning",
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
