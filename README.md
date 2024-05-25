@@ -31,8 +31,8 @@ const silvi = {
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
-![Silvia GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarenales&show_icons=true&theme=radical)
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenales&layout=compact&&langs_count=8&theme=radical"/>
+![Silvia GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarenales&show_icons=true&theme=transparent)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenales&layout=compact&&langs_count=8&theme=transparent"/>
 
 
 
