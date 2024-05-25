@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarenales&theme=radical)
+
 
 
 ```javascript
@@ -34,6 +34,10 @@ const silvi = {
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
+![Silvia GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarenales&show_icons=true&theme=radical)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenales&layout=compact&&langs_count=8&theme=radical"/>
+
+
 
 # 🌐 Languages I Speak
 - French 
