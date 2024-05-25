@@ -9,7 +9,6 @@
 # Hi there 👋, I'm Silvia!
 
 Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student passionate about Machine Learning, which I plan to specialize in next year.
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ## 🚀 About Me
 
@@ -20,7 +19,6 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 📫 How to reach me: silviarenalesmunoz@gmail.com
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
