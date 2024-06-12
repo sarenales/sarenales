@@ -35,12 +35,4 @@ const silvi = {
 
 
 
-# 🌐 Languages I Speak
-- French 
-- Spanish 
-- Basque
-- English 
-
-
-
 
