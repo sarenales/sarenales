@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://www.instagram.com/silviarenales"> 📷 Instagram</a> •
-  <a href="https://twitter.com/arenalesandy"> 🐤 Twitter</a> •
   <a href="https://es.linkedin.com/in/silvia-arenales-mu%C3%B1oz-8b8091218?trk=public_profile_browsemap"> 👩🏽‍💼 Linkedin</a> •
   <a href="https://drive.google.com/file/d/1n8rDjlpCxRvQN0KyEQx15wN33C940o0d/view?usp=sharing"> 🔖 CV </a> 
 </p>
