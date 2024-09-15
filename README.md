@@ -5,13 +5,13 @@
 
 # Hi there 👋, I'm Silvia!
 
-Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student passionate about Machine Learning, which I plan to specialize in next year.
+Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student passionate about Machine Learning.
 
 ## 🚀 About Me
 
 🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> .
 
-🌱 I’m planning to specialize doing a master about artificial intelligence next year at the <a href="https://www.upm.es/">Technical University of Madrid (UPM)</a> .
+🌱 I’m doing a master about artificial intelligence at the <a href="https://www.upm.es/">Technical University of Madrid (UPM)</a> .
 
 📫 How to reach me: silviarenalesmunoz@gmail.com
 
