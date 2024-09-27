@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://es.linkedin.com/in/silvia-arenales-mu%C3%B1oz-8b8091218?trk=public_profile_browsemap"> 👩🏽‍💼 Linkedin</a> •
-  <a href="https://drive.google.com/file/d/1n8rDjlpCxRvQN0KyEQx15wN33C940o0d/view?usp=sharing"> 🔖 CV </a> 
+  <a href="https://drive.google.com/file/d/1MElrapXgbPWw6aukpdno8h6n4iScFCD4/view?usp=sharing"> 🔖 CV </a> 
 </p>
 
 # Hi there 👋, I'm Silvia!
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 
 🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> .
 
-🌱 I’m doing a master about artificial intelligence at the <a href="https://www.upm.es/">Technical University of Madrid (UPM)</a> .
+🌱 I’m doing a master about artificial intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a> .
 
 📫 How to reach me: silviarenalesmunoz@gmail.com
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer student p
 const silvi = {
   pronouns: "she" | "her",
   code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS],
-  challenge: "I am doing my final project about how Large Language Models response with tasks of visual spacial reasoning",
+  challenge: "Deep in Machine Learning and Deep Learning.",
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
