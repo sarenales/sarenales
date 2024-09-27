@@ -3,9 +3,9 @@
   <a href="https://drive.google.com/file/d/1MElrapXgbPWw6aukpdno8h6n4iScFCD4/view?usp=sharing"> 🔖 CV </a> 
 </p>
 
-# Hi there 👋, I'm Silvia!
+# Hi there 👋, I'm Silvia Arenales!
 
-Welcome to my GitHub profile! I'm Silvia Arenales, a computer engineer passionate about Machine Learning.
+Welcome to my GitHub profile! I'm a computer engineer passionate about Machine Learning.
 
 ## 🚀 About Me
 
