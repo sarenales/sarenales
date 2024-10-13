@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a computer engineer passionate about Machine L
 
 ## 🚀 About Me
 
-🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> .
+🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> as a Computer Engineer.
 
 🌱 I’m doing a master about artificial intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a> .
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a computer engineer passionate about Machine L
 const silvi = {
   pronouns: "she" | "her",
   code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS],
-  challenge: "Deep in Machine Learning and Deep Learning.",
+  challenge: "Learning Bayesian Networks.",
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
