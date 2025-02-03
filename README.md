@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a computer engineer passionate about Machine L
 ```javascript
 const silvi = {
   pronouns: "she" | "her",
-  code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS],
-  challenge: "Learning Bayesian Networks.",
+  code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS, ABAP],
+  challenge: "Learning SAP and Adversarial Attacks in ML.",
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
