@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="www.linkedin.com/in/silvia-arenales-8b8091218"> 👩🏽‍💼 Linkedin</a> •
+  <a href="https://es.linkedin.com/in/silvia-arenales"> 👩🏽‍💼 Linkedin</a> •
   <a href="https://drive.google.com/file/d/1MElrapXgbPWw6aukpdno8h6n4iScFCD4/view?usp=sharing"> 🔖 CV </a> 
 </p>
 
