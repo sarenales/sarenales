@@ -5,7 +5,7 @@
 
 # Hi there 👋, I'm Silvia Arenales!
 
-Welcome to my GitHub profile! I'm a computer engineer passionate about Machine Learning.
+Welcome to my GitHub profile! I'm a computer engineer passionate about Artifial Intelligence.
 
 ## 🚀 About Me
 
