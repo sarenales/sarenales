@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://es.linkedin.com/in/silvia-arenales"> 👩🏽‍💼 Linkedin</a> •
-  <a href="https://drive.google.com/file/d/1MElrapXgbPWw6aukpdno8h6n4iScFCD4/view?usp=sharing"> 🔖 CV </a> 
+  <a href="https://drive.google.com/file/d/1FIUCWlIfqEICqXy-3Xw1jhEQ6_9JwYot/view?usp=sharing"> 🔖 CV </a> 
 </p>
 
 # Hi there 👋, I'm Silvia Arenales!
