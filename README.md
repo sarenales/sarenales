@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a computer engineer passionate about Artifial 
 const silvi = {
   pronouns: "she" | "her",
   code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS, ABAP],
-  challenge: "Learning SAP and XAI.",
+  challenge: "LLMs Security and XAI.",
   machineLearning: ["tensorflow", "keras", "pytorch"]
 }
 ```
