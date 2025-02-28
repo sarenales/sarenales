@@ -8,7 +8,9 @@
 I'm a computer engineer passionate about Artifial Intelligence.
 
 🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> as a Computer Engineer.
-🌱 I’m doing a master about artificial intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a> .
+
+🌱 I’m doing a master about Artificial Intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a> .
+
 📫 How to reach me: silviarenalesmunoz@gmail.com
 
 ```javascript
