@@ -25,7 +25,7 @@ const silvi = {
   pronouns: "she" | "her",
   code: [ C, C++, MathLab, R, ADA, CLIPS, Python, Java, Linux-Shell, HTML-CSS, ABAP],
   challenge: "LLMs Security and XAI.",
-  machineLearning: ["tensorflow", "keras", "pytorch"]
+  machineLearning: ["tensorflow", "keras", "pytorch", "torch"]
 }
 ```
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenales&layout=compact&&langs_count=8&theme=transparent"/>
