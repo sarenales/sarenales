@@ -23,10 +23,6 @@ const silvi = {
 ```
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenales&layout=compact&&langs_count=8&theme=transparent"/>
 
-
-
-
-
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
