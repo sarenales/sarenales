@@ -3,15 +3,15 @@
   <a href="https://drive.google.com/file/d/1FIUCWlIfqEICqXy-3Xw1jhEQ6_9JwYot/view?usp=sharing"> 🔖 CV </a> 
 </p>
 
-# Hi there 👋, I'm Silvia Arenales!
+# Hi there , I'm Silvia Arenales!
 
 I'm a computer engineer passionate about Artifial Intelligence.
 
-🎓 I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> as a Computer Engineer.
+I graduated at <a href="https://www.ehu.eus/es/web/informatika-fakultatea">University of the Basque Country (EHU-UPV)</a> as a Computer Engineer.
 
-🌱 I’m mastering in Artificial Intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a>.
+I’m mastering in Artificial Intelligence at the <a href="https://www.upm.es/">Polytechnic University of Madrid (UPM)</a>.
 
-📫 How to reach me: silviarenalesmunoz@gmail.com .
+How to reach me: silviarenalesmunoz@gmail.com .
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
